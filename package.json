@@ -2,7 +2,7 @@
   "name": "@haseebanwar/test-package",
   "version": "1.0.3",
   "description": "Example NPM package demonstrating best practices",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "build": "babel src -d lib"
   },
