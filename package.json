@@ -1,0 +1,23 @@
+{
+  "name": "@haseebanwar/test-package",
+  "version": "1.0.0",
+  "description": "Example NPM package demonstrating best practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haseebanwar/test-package.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "NPM"
+  ],
+  "author": "Haseeb Anwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haseebanwar/test-package/issues"
+  },
+  "homepage": "https://github.com/haseebanwar/test-package#readme"
+}
