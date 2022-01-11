@@ -1,6 +1,6 @@
 {
   "name": "@haseebanwar/test-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Example NPM package demonstrating best practices",
   "main": "index.js",
   "scripts": {
